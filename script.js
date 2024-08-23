@@ -1,0 +1,1 @@
+alert("Welcome to the Amazon clone website made by Mr. Soumojit Poddar")
